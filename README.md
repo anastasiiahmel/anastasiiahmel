@@ -1,6 +1,6 @@
 <h1 align="center">Hello, everyone 👋🏼 I'm Nastya :)</h1>
 
-<h2 align="center">frontend developer from Ukraine </h2>
+<h2 align="center">Frontend developer from Ukraine </h2>
 
 
 <ul align="left">
