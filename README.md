@@ -7,7 +7,7 @@
 <li>🖥 Developing my skills and learning web development</li>
 <li>📌 Responsible and diligent</li>
 <li>✉️ How to reach me: khmelenko.nastya@gmail.com</li>
-<li><a href="https://cv.djinni.co/43/633c48848e6303e3806c90af2dc399/Anastasiia_Khmelenko_Frontend_developer.pdf">📄 Resume</a></li>
+<li><a href="https://cv.djinni.co/a6/eeca57d1b17e23985b39e9066930ee/Anastasiia_Khmelenko_Frontend_developer.pdf">📄 Resume</a></li>
 </ul>
 
 <div align="left">
