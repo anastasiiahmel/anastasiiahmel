@@ -8,7 +8,7 @@
 <li>📌 Responsible and diligent</li>
 <li>🔎 Attentive to detail and problem solver</li>
 <li>✉️ How to reach me: khmelenko.nastya@gmail.com  &  <a href="http://www.linkedin.com/in/anastasiia-khmelenko">LinkedIn</a></li>
-<li><a href="https://cv.djinni.co/52/81c2289374c26bcab569ee64a5cced/Anastasiia_Khmelenko_Frontend_developer.pdf">📄 Resume</a></li>
+<li><a href="https://cv.djinni.co/70/a566d3b016cfc405cd29abffcd60a9/Anastasiia_Khmelenko_Frontend_developer.pdf">📄 Resume</a></li>
 </ul>
 
 <div align="left">
